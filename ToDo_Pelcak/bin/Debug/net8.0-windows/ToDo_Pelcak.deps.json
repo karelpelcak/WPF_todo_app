@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ToDo_Pelcak/1.0.0": {
+        "runtime": {
+          "ToDo_Pelcak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToDo_Pelcak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
